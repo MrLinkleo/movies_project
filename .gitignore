@@ -167,3 +167,4 @@ parsed_data/
 media/qr_codes
 
 node_modules/
+movies.json

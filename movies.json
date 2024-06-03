@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Два дома",
+        "year": 1990,
+        "genre": "Comedy",
+        "rating": [9, 6, 10, 8]
+    },
+    {
+        "name": "Один дома",
+        "year": 1990,
+        "genre": "Comedy",
+        "rating": [9, 6, 10, 8]
+    },
+    {
+    
+        "name": "Mad Max",
+        "year": 1981,
+        "genre":"road movie",
+        "rating": [9, 6, 10, 8]
+    },
+    {
+        "name": "Криминальное чтиво",
+        "year": 1994,
+        "genre": "action movie",
+        "rating": [9, 6, 10, 8]
+    }
+]
